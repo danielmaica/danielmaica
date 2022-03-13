@@ -1,8 +1,8 @@
 ### Olá, tudo bem? Eu sou o Daniel Maicá.
 
-- 📖 Sou estudante de Análise e Desenvolvimento de Sistemas
-- 💻 Estou em busca de me capacitar para começar atuar como Dev
-- 💵 Atualmente trabalho como Gerente Financeiro
+- 📖 Estudante de Análise e Desenvolvimento de Sistemas.
+- 💻 Estou em busca de me capacitar para começar atuar como Dev.
+- 💵 Atualmente trabalho como Gerente Financeiro.
 
 <div align="center">
   <a href="https://github.com/danielmaica">
