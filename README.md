@@ -1,4 +1,4 @@
-### Olá, tudo bem? Eu sou o Daniel Maicá.
+### Olá mundo! Eu sou o Daniel Maicá.
 
 - 📖 Estudante de Análise e Desenvolvimento de Sistemas.
 - 💻 Estou em busca de me capacitar para começar atuar como Dev.
