@@ -2,6 +2,7 @@
 
 - 📖 Estudante de Análise e Desenvolvimento de Sistemas.
 - 💻 Estou em busca de me capacitar e aprimorar meus conhecimentos como Desenvolvedor Full Stack.
+- ⌨🖱 Estagiário Full Stack Developer
 
 <div align="center">
   <a href="https://github.com/danielmaica">
