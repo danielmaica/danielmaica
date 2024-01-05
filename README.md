@@ -1,6 +1,6 @@
 ### Olá mundo! Eu sou o Daniel Maicá.
 
-- 📖 Estudante de Análise e Desenvolvimento de Sistemas.
+- 📖 Formado em Análise e Desenvolvimento de Sistemas.
 - 💻 Estou em busca de me capacitar e aprimorar meus conhecimentos como Desenvolvedor Full Stack.
 - ⌨🖱 Desenvolvedor Full Stack na Fluid State.
 
