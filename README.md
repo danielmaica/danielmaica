@@ -3,7 +3,6 @@
 - 📖 Formado em Análise e Desenvolvimento de Sistemas.
 - 🧠 Estou em busca de me capacitar e aprimorar meus conhecimentos como Desenvolvedor Full Stack.
 - 💻 Desenvolvedor Full Stack na Fluid State.
-- 👨🏻‍💻 Programador freelancer
 
 <div align="center">
   
