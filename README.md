@@ -2,7 +2,7 @@
 
 - 📖 Formado em Análise e Desenvolvimento de Sistemas.
 - 🧠 Estou em busca de me capacitar e aprimorar meus conhecimentos como Desenvolvedor Full Stack.
-- 💻 Desenvolvedor Full Stack na Fluid State.
+- 💻 Dev na Fluid State.
 
 <div align="center">
   
